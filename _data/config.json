@@ -1,0 +1,34 @@
+{
+  "title": "Буханка TV",
+  "url": "/",
+  "domain": "https://buhankatv.github.io/",
+  "language": "ru",
+  "logoUrl": "/_images/logo.png",
+  "search": true,
+  "showCookiesAdvice": false,
+  "cookiesAdviceText": "Cookies advice text",
+  "cookiesAdviceMoreInfoAnchor": "More Info",
+  "cookiesAdviceMoreInfoUrl": "/cookies/",
+  "googleAnalyticsID": "",
+  "footerText": "Буханка TV © 2023",
+  "footerLinks": [
+    
+  ],
+  "navbarMenu": [
+    {
+      "anchor": "О нас",
+      "url": "/about/"
+    }
+  ],
+  "navbarButtons": [
+   
+  ],
+  "social": {
+    "vk": "https://vk.com/buhankatv",
+    "youtube": "https://www.youtube.com/channel/UCtvKVhCxoJCJl417TU0kh_g"
+  },
+  "showShareButtons": false,
+  "showDate": false,
+  "showRelatedPosts": true,
+  "relatedPostsTitle": "Посмотреть еще"
+}
